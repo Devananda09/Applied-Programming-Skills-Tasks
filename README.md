@@ -13,6 +13,7 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0145-binary-tree-postorder-traversal) |
@@ -21,6 +22,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0145-binary-tree-postorder-traversal) |
@@ -29,6 +31,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0145-binary-tree-postorder-traversal) |
@@ -41,6 +44,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0101-symmetric-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
