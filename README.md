@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0257-binary-tree-paths) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0145-binary-tree-postorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
