@@ -13,6 +13,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0144-binary-tree-preorder-traversal) |
@@ -22,6 +23,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0144-binary-tree-preorder-traversal) |
@@ -31,6 +33,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0144-binary-tree-preorder-traversal) |
@@ -44,6 +47,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0101-symmetric-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
