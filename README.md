@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0257-binary-tree-paths) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Backtracking
 |  |
@@ -62,6 +63,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0946-validate-stack-sequences) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting
 |  |
