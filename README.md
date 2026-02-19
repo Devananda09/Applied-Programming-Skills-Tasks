@@ -100,4 +100,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
