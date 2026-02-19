@@ -64,6 +64,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -80,10 +81,19 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0946-validate-stack-sequences) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
