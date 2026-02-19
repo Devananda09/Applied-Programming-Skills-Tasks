@@ -60,8 +60,17 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0145-binary-tree-postorder-traversal) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1704-determine-if-string-halves-are-alike) |
+## Array
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
