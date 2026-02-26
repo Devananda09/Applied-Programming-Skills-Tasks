@@ -94,6 +94,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0867-transpose-matrix) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Quickselect
 |  |
 | ------- |
