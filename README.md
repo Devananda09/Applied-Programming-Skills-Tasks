@@ -81,6 +81,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0946-validate-stack-sequences) |
 ## Design
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0219-contains-duplicate-ii) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
