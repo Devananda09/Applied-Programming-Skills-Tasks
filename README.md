@@ -167,4 +167,16 @@
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1314-matrix-block-sum) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
