@@ -93,6 +93,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0189-rotate-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0219-contains-duplicate-ii) |
@@ -144,12 +145,14 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0700-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
