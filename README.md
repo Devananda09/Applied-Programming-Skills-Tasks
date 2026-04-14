@@ -80,6 +80,7 @@
 | [0020-valid-parentheses](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0739-daily-temperatures) |
@@ -127,6 +128,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0011-container-with-most-water) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
