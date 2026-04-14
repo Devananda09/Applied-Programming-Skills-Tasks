@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0219-contains-duplicate-ii) |
@@ -195,7 +196,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
