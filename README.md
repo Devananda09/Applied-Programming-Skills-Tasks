@@ -107,6 +107,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1314-matrix-block-sum) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1480-running-sum-of-1d-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1314-matrix-block-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
