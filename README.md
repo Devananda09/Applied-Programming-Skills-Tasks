@@ -143,11 +143,13 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0025-reverse-nodes-in-k-group) |
 | [0876-middle-of-the-linked-list](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0025-reverse-nodes-in-k-group) |
 ## Sliding Window
 |  |
 | ------- |
