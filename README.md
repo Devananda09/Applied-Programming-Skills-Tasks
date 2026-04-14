@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -193,5 +194,6 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
