@@ -79,6 +79,7 @@
 | [0542-01-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Sorting
 |  |
 | ------- |
@@ -261,4 +262,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1129-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->
