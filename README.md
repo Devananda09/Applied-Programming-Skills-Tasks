@@ -38,6 +38,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0200-number-of-islands) |
+| [0210-course-schedule-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -77,6 +78,7 @@
 | [0100-same-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0200-number-of-islands) |
+| [0210-course-schedule-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -267,10 +269,12 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0210-course-schedule-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 <!---LeetCode Topics End-->
