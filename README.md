@@ -90,6 +90,7 @@
 | [0733-flood-fill](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Sorting
@@ -145,6 +146,7 @@
 | [0929-unique-email-addresses](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1314-matrix-block-sum) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1480-running-sum-of-1d-array) |
@@ -196,6 +198,7 @@
 | [0695-max-area-of-island](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1314-matrix-block-sum) |
 ## Binary Search Tree
 |  |
