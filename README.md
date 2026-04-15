@@ -62,6 +62,7 @@
 | [0049-group-anagrams](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0496-next-greater-element-i) |
@@ -210,6 +211,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0977-squares-of-a-sorted-array) |
