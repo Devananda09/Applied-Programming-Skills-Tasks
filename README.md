@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0257-binary-tree-paths) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -57,6 +58,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0219-contains-duplicate-ii) |
@@ -72,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
@@ -101,6 +104,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0189-rotate-array) |
