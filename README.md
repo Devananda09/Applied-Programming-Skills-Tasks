@@ -44,6 +44,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0257-binary-tree-paths) |
+| [0547-number-of-provinces](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0841-keys-and-rooms) |
@@ -84,6 +85,7 @@
 | [0207-course-schedule](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0841-keys-and-rooms) |
@@ -274,12 +276,14 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
