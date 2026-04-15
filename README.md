@@ -44,6 +44,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0257-binary-tree-paths) |
+| [0695-max-area-of-island](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -83,6 +84,7 @@
 | [0207-course-schedule](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -133,6 +135,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0739-daily-temperatures) |
@@ -188,6 +191,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1314-matrix-block-sum) |
@@ -270,6 +274,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
