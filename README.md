@@ -50,6 +50,7 @@
 | [0841-keys-and-rooms](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0994-rotting-oranges](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 | [0200-number-of-islands](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -290,6 +293,7 @@
 | [0841-keys-and-rooms](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
