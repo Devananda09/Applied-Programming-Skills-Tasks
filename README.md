@@ -260,6 +260,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0202-happy-number) |
@@ -267,6 +268,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0198-house-robber) |
@@ -345,4 +347,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0973-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
