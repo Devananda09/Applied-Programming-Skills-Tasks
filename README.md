@@ -10,6 +10,7 @@
 | [0929-unique-email-addresses](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1763-longest-nice-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0496-next-greater-element-i](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0496-next-greater-element-i) |
 | [0929-unique-email-addresses](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1763-longest-nice-substring](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1763-longest-nice-substring) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0219-contains-duplicate-ii) |
+| [1763-longest-nice-substring](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1763-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 | [0190-reverse-bits](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -310,4 +314,5 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
