@@ -219,6 +219,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -305,4 +306,8 @@
 | [0207-course-schedule](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
