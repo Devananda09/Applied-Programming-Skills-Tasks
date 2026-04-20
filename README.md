@@ -142,6 +142,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0496-next-greater-element-i) |
@@ -215,6 +216,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0700-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -224,6 +226,7 @@
 | [0169-majority-element](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
@@ -287,6 +290,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Union-Find
 |  |
 | ------- |
@@ -315,4 +319,16 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1763-longest-nice-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
