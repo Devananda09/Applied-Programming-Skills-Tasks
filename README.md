@@ -106,6 +106,7 @@
 | [0169-majority-element](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
@@ -154,6 +155,7 @@
 | [0867-transpose-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1314-matrix-block-sum) |
@@ -228,6 +230,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
@@ -236,11 +239,13 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0973-k-closest-points-to-origin](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -256,6 +261,7 @@
 | [0070-climbing-stairs](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,4 +337,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
