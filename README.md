@@ -15,6 +15,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -137,6 +138,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0121-best-time-to-buy-and-sell-stock) |
