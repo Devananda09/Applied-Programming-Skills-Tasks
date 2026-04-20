@@ -108,6 +108,7 @@
 | [0169-majority-element](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0973-k-closest-points-to-origin](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -150,6 +151,7 @@
 | [0322-coin-change](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0542-01-matrix) |
@@ -300,6 +302,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0011-container-with-most-water) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Devananda09/Applied-Programming-Skills-Tasks/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Queue
 |  |
 | ------- |
